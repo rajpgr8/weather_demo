@@ -1,4 +1,4 @@
-#### demo code to show how to fetch and dispaly weather information of any city using PyOWM.
+### Demo code to show how to fetch and dispaly weather information of any city using PyOWM.
 
 How to run?
 ```
