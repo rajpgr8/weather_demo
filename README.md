@@ -1,4 +1,4 @@
-# weather_info
+# demo code to show hwo to fetch and dispaly weather information of any city.
 
 ```
 sudo pip3 install --upgrade pip
